@@ -2,8 +2,10 @@
 .venv/
 venv/
 env/
+
+# VS Code
 .vscode/
 
 # Python bytecode
 __pycache__/
-*.pyc   
+*.pyc
